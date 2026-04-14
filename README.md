@@ -1,6 +1,6 @@
 # Graphical Models and Probabilistic Inference Projects
 
-This repository presents three mini-projects in graphical models, reorganized from coursework into a more research-oriented portfolio.
+This repository presents three mini-projects in graphical models
 
 The projects focus on:
 - latent-variable sequence modeling
